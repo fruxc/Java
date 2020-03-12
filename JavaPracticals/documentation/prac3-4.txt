@@ -1,0 +1,20 @@
+22-7-2019:
+without string functions:
+1. length
+2. copy
+3. concatenate
+4. reverse
+5. palindrome
+
+
+23-7-2019:
+-find out occurrence of character(consider special characters( ,.?!))
+strings are anagrams or not(receive 2 strings and check if one of them can be formed by rearranging(any combination) the first one)
+-find out vowels and consonants
+-remove duplicate character from the string.(EG: banananas: store a new char in a different array and the same char shouldn't be repeated in an array)
+-return highest occurred character in a string.(print both the characters if more than one characters are repeated)
+-remove a given character from a string.
+remove substring from the given string.
+
+
+
